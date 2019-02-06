@@ -23,7 +23,7 @@ Download and install the repository and dependencies
 
 Selenium automation repository using Ruby, Rspec and BDD styled specs.  Tests currently configured to use Chrome.
 
-Uses a Page object model with a separate action module which includes all methods to be used within the specs and also goives access to all page objects.
+Uses a Page object model with a separate action module which includes all methods to be used within the specs.
 
 All methods documented to Yard standards to make it easier to understand and read, this could be implemented at a later date
 

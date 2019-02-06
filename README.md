@@ -1,13 +1,16 @@
-# partnerize_technical_task
+# Partnerize technical task
 Aaron Technical Task: Partnerize
 
-Set Up and Run Test
+## Getting Started
 
-git clone git@github.com:aaron66/partnerize_technical_task.git 
+### Repository Set Up
 
-cd partnerize_technical_task
+Download and install the repository and dependencies
 
-bundle install
+`cd development`
 
-bundle exec rspec spec/
+`git@github.com:aaron66/partnerize_technical_task.git`
 
+`cd partnerize_technical_task`
+
+`bundle`

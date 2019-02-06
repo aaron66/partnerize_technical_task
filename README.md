@@ -14,3 +14,8 @@ Download and install the repository and dependencies
 `cd partnerize_technical_task`
 
 `bundle`
+
+### Run the test
+
+`bundle exec rspec spec/`
+

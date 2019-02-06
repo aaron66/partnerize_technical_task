@@ -1,0 +1,8 @@
+gem 'bdd'
+gem 'chromedriver-helper'
+gem 'json'
+gem 'selenium-webdriver'
+gem 'rest-client'
+gem 'require_all'
+gem 'rspec'
+gem 'pry'

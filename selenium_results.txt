@@ -1,0 +1,7 @@
+
+Partnerize Technical Task
+[32m  Customer can submit a contact form with valid data[0m
+
+Finished in 10.09 seconds (files took 0.4705 seconds to load)
+[32m1 example, 0 failures[0m
+

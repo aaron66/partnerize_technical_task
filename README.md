@@ -9,7 +9,7 @@ Download and install the repository and dependencies
 
 `cd development`
 
-`git@github.com:aaron66/partnerize_technical_task.git`
+`git clone git@github.com:aaron66/partnerize_technical_task.git`
 
 `cd partnerize_technical_task`
 

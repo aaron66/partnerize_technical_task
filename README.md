@@ -19,3 +19,9 @@ Download and install the repository and dependencies
 
 `bundle exec rspec spec/`
 
+### About the repo
+
+Selenium automation repository using Ruby, Rspec and BDD styled specs.  Tests currently configured to use Chrome.
+
+
+

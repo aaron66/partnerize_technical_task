@@ -82,7 +82,7 @@ module AjpPartnerizeTechnicalTask
 
     # used to make element wait for certain amount of time
     # @example
-    #   wait(120).until { wizard_page.business_name.displayed? }
+    #   wait(120).until { element.displayed? }
     def wait(seconds)
       Selenium::WebDriver::Wait.new(timeout: seconds)
     end

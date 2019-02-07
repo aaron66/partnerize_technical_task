@@ -66,7 +66,7 @@ module Actions
 
       list_items = selenium_easy_input_form_page.state.find_elements(tag_name: 'option')
       list_items.find do |list_item|
-        list_item.text == ' Florida'
+        list_item.text == state
       end.click
 
       selenium_easy_input_form_page.state.send_keys state
